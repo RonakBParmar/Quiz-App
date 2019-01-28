@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="Start_Button" translatable="false">Start</string>
+    <string name="Close_Button" translatable="false">Close</string>
+    <string name="Back_Button">back</string>
+    <string name="Initial" translatable="false">Press enter your student number and press Start to continue the quiz. You will have 100 secs to answer
+                            10 questions. Press Close to exit. </string>
+    <string name="StudentNumber" translatable="false">Enter Student Number</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string-array name="Question">
+        <item> Brass gets discoloured in air because of the presence of which of the following gases in air?</item>
+        <item>Which of the following is a non metal that remains liquid at room temperature?</item>
+        <item> Chlorophyll is a naturally occurring chelate compound in which central metal </item>
+        <item>Which of the following is used in pencils?</item>
+        <item>Which of the following metals forms an amalgam with other metals?</item>
+        <item>\'OS\' computer abbreviation usually means ?</item>
+        <item>\'.MOV\' extension refers usually to what kind of file?</item>
+        <item>Most modern TV\'s draw power even if turned off. The circuit the power is used in does what function?</item>
+        <item>Which is a type of Electrically-Erasable Programmable Read-Only Memory?</item>
+        <item>Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?.</item>
+    </string-array>
+
+    <string-array name="Option1">
+        <item>Oxygen</item>
+        <item>Phosphorous</item>
+        <item>Copper</item>
+        <item>Graphite</item>
+        <item>Tin</item>
+        <item>Order of Significance</item>
+        <item>Animation file</item>
+        <item>High voltage</item>
+        <item>Flange</item>
+        <item>Jeff Bezos</item>
+    </string-array>
+
+    <string-array name="Option2">
+        <item>Hydrogen sulphide</item>
+        <item>Chlorine</item>
+        <item>Calcium</item>
+        <item>Charcoal</item>
+        <item>Mercury</item>
+        <item>Optical Sensor</item>
+        <item>Audio file</item>
+        <item>Color balance</item>
+        <item>Flash</item>
+        <item>George Boole</item>
+    </string-array>
+
+    <string-array name="Option3">
+        <item>Carbon dioxide</item>
+        <item>Bromine</item>
+        <item>Iron</item>
+        <item>Silicon</item>
+        <item>Lead</item>
+        <item>Open Software</item>
+        <item>Image file</item>
+        <item>Remote control</item>
+        <item>Fury</item>
+        <item>Charles Babbage</item>
+    </string-array>
+
+    <string-array name="Option4">
+        <item>Nitrogen</item>
+        <item>Helium</item>
+        <item>Magnesium</item>
+        <item>Phosphorous</item>
+        <item>Zinc</item>
+        <item>Operating System</item>
+        <item>MS Office document</item>
+        <item>Sound</item>
+        <item>FRAM</item>
+        <item>Alan Turing</item>
+    </string-array>
+
+    <string-array name="correct_answer">
+        <item>Hydrogen sulphide</item>
+        <item>Bromine</item>
+        <item>Magnesium</item>
+        <item>Graphite</item>
+        <item>Mercury</item>
+        <item>Operating System</item>
+        <item>Animation file</item>
+        <item>Remote control</item>
+        <item>Flash</item>
+        <item>Alan Turing</item>
+    </string-array>
+</resources>
